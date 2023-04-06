@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chiamakagrace
-- 👀 I’m interested in Web Development, Mobile App, Data Science and Blockchain Technology
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Web Development, Mobile App, Everything Data And Artificial Intelligence
+- 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Web Development related project
 - 📫 How to reach me https://www.linkedin.com/in/chiamaka-sopuruchukwu-687891178
 
